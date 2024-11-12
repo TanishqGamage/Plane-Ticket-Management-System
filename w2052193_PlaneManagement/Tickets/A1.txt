@@ -1,0 +1,8 @@
+Row           : A
+Seat Number   : 1
+Price         : 200
+Customer Info ----------
+First Name    : asdas
+Surname       : as
+Email         : @.
+--------------------------------------------------
